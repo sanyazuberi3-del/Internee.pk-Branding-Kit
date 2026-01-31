@@ -20,13 +20,13 @@ The primary palette uses forest green shades to create a modern, cohesive identi
 ## Logo
 The logo combines a graduation cap and atom symbol in a minimalist, rounded style.
 
-![Logo](Logo.png)
+![Logo](Logos.png)
 ![Logo Variations](Logos-1.png)
 
 ---
 
 ## Typography
-![Typography](Typography.png)
+![Typography](Typographys.png)
 
 ---
 
